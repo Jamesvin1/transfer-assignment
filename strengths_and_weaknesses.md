@@ -3,4 +3,5 @@
 * Documentation of code changes
 
 # Weaknesses
+* Working with Osi-Layer 8
 
